@@ -1,22 +1,22 @@
 {
   "authors": [
     {
-      "id": 17,
+      "id": "8ace8839-40b1-4af2-9a1e-71140883d89f",
       "firstName": "William",
       "lastName": "Press"
     },
     {
-      "id": 25,
+      "id": "77960cce-bcc8-46e4-8b7e-1b1c54f28418",
       "firstName": "Igor",
       "lastName": "Druski"
     },
     {
-      "id": 874,
+      "id": "c8ebd1f7-f07e-4586-b625-a0d0a7e682e2",
       "firstName": "Alfred",
       "lastName": "Aho"
     },
     {
-      "id": 97,
+      "id": "c8ebd1f7-f07e-4586-b625-a0d0a7e682e2",
       "firstName": "Jeffrey",
       "lastName": "Ulman"
     }
